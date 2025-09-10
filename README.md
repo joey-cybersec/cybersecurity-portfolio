@@ -12,4 +12,4 @@ Welcome! I'm a first year cybersecurity student at Federation University, passio
 - Bacholour degree IT major in cybersecurtity (in progress)
 
 ## 🧠 Skills
-Python, , Wireshark, SQL, Execels,ComandPrompt
+Python, , Wireshark, SQL, Execels,ComandPrompt , understanding of cybersecuirty threats and protocol 
